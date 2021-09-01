@@ -119,7 +119,7 @@ async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit("**Gak keren lu begitu tolol, kuburan bapak lu gw gali buat dijadiin kolam renang anak paud.Cuihhhhh!!!**")
 
-@register(outgoing=True, pattern='^.Lah(?: |$)(.*)')
+@register(outgoing=True, pattern='^.lah(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit("**LAH KOK NGATUR??? SINI SUJUD DULU TOLOL!!!**")
