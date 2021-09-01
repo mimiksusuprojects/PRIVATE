@@ -7,7 +7,7 @@ async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
     await typew.edit("`𝐀𝐋𝐈𝐀𝐍𝐒𝐈 𝐌𝐈𝐌𝐈𝐊 𝐒𝐔𝐒𝐔`")
-    sleep(3)
+    sleep(1)
     await typew.edit("𝐎𝐖𝐍𝐄𝐑: 𝐒𝐄𝐌𝐏𝐀𝐊 𝐁𝐄𝐒𝐈`")
     sleep(1)
     await typew.edit("`𝐋𝐔 𝐁𝐄𝐋𝐔𝐌 𝐊𝐄𝐑𝐄𝐍 𝐊𝐀𝐋𝐎 𝐁𝐄𝐋𝐔𝐌 𝐊𝐄𝐍𝐀𝐋 𝐌𝐒, 𝐒𝐈𝐍𝐈 𝐒𝐔𝐉𝐔𝐃 𝐃𝐔𝐋𝐔!!!`")
