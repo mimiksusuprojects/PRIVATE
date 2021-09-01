@@ -59,7 +59,7 @@ async def lastname(steal):
                 conv.chat_id, [msg.id, r.id, response.id, respond.id]
             )
     except TimeoutError:
-        return await steal.edit("`Saya Sedang Sakit bang Sempak besi, Mohon Maaf`")
+        return await steal.edit("`Saya Sedang Sakit bang sempak besi, Mohon Maaf`")
 
 
 CMD_HELP.update({
