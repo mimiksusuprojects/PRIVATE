@@ -36,3 +36,15 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`Dan Selalu Bersyukur`")
 # Create by myself @localheart
+
+
+@register(outgoing=True, pattern='^.war(?: |$)(.*)')
+async def typewriter(typew):
+    typew.pattern_match.group(1)
+    sleep(3)
+    await typew.edit("`𝐋𝐔 𝐘𝐀𝐊𝐈𝐍 𝐌𝐀𝐔 𝐖𝐀𝐑 𝐒𝐀𝐌𝐀 𝐀𝐍𝐀𝐊 𝐌𝐒???`")
+    sleep(3)
+    await typew.edit("`𝐁𝐎𝐂𝐀𝐇 𝐁𝐎𝐂𝐀𝐇 𝐏𝐔𝐍𝐘𝐀 𝐑𝐈𝐖𝐀𝐘𝐀𝐓 𝐆𝐀𝐍𝐆𝐆𝐔𝐀𝐍 𝐉𝐈𝐖𝐀 𝐊𝐄𝐊 𝐄𝐋𝐔 𝐆𝐈𝐍𝐈 𝐆𝐀𝐃𝐀 𝐏𝐀𝐍𝐓𝐄𝐒 𝐏𝐀𝐍𝐓𝐄𝐒𝐍𝐘𝐀 𝐌𝐎 𝐋𝐀𝐖𝐀𝐍 𝐆𝐔𝐀 𝐃𝐄𝐊...`")
+    sleep(1)
+    await typew.edit("`𝐘𝐀 𝐁𝐄𝐆𝐈𝐍𝐈 𝐊𝐀𝐋𝐎 𝐌𝐀𝐍𝐔𝐒𝐈𝐀 𝐇𝐀𝐒𝐈𝐋 𝐏𝐄𝐑𝐂𝐀𝐌𝐏𝐔𝐑𝐀𝐍 𝐒𝐏𝐄𝐑𝐌𝐀 𝐏𝐄𝐍𝐆𝐄𝐌𝐈𝐒, 𝐄𝐌𝐀𝐊𝐍𝐘𝐀 𝐏𝐄𝐌𝐔𝐋𝐔𝐍𝐆. 𝐉𝐀𝐃𝐈𝐍𝐘𝐀 𝐀𝐍𝐀𝐊𝐍𝐘𝐀 𝐀𝐔𝐓𝐈𝐒 𝐘𝐀𝐍𝐆 𝐉𝐄𝐋𝐌𝐀𝐀𝐍𝐍𝐘𝐀 𝐁𝐄𝐍𝐓𝐔𝐊𝐀𝐍 𝐋𝐀𝐌𝐏𝐔 𝐋𝐀𝐋𝐔 𝐋𝐈𝐍𝐓𝐀𝐒, 𝐊𝐄𝐏𝐀𝐋𝐀 𝐓𝐈𝐆𝐀 𝐊𝐀𝐊𝐈 𝐒𝐀𝐓𝐔 𝐓𝐎𝐋𝐎𝐋 `")
+# Create by myself @localheart
