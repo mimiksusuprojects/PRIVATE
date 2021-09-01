@@ -26,9 +26,10 @@
       "description": "BUAT ALIVE LOGO MU SENDIRI.",
       "value": "https://telegra.ph/file/5e183c7f319f42d68834d.png",
       "required": true
-     },
+    },
      "HELP_LOGO": {
-       "value": https://telegra.ph/file/5e183c7f319f42d68834d.png",
+       "value": "https://telegra.ph/file/5e183c7f319f42d68834d.png",
+    },
      "STRING_SESSION": {
       "description": "Ambil String Session di @ramubotspam dengan cara ketik #string.",
       "required": true
