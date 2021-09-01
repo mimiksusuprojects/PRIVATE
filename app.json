@@ -29,7 +29,8 @@
     },
      "HELP_LOGO": {
        "value": "https://telegra.ph/file/5e183c7f319f42d68834d.png",
-    },
+       "required": true
+   },
      "STRING_SESSION": {
       "description": "Ambil String Session di @ramubotspam dengan cara ketik #string.",
       "required": true
