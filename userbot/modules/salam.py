@@ -119,10 +119,23 @@ async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit("**Gak keren lu begitu tolol, kuburan bapak lu gw gali buat dijadiin kolam renang anak paud.Cuihhhhh!!!**")
 
+
 @register(outgoing=True, pattern='^.lah(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit("**LAH KOK NGATUR??? SINI SUJUD DULU TOLOL!!!**")
+
+
+@register(outgoing=True, pattern='^.sempak(?: |$)(.*)')
+async def typewriter(typew):
+    typew.pattern_match.group(1)
+    await typew.edit("**AHAHA MAKANYA
+KALO UDAH GA PUNYA KATA KATA NGELAWAN ANAK MS MENDING LU DIEM AJA TOLOL
+ LU AKUIN DAH KEKALAHAN LU YANG DRAMATIS ITU DONGO
+ALESAN JADUL LU PAKE SAMA BAT SAMA WATAK BAPA LU YANG IDIOT KONTOL HINA ITU AHAHAH... GOBLOK DAN KASIHAN NYA LAGI
+EMAK LU GUA SURUH BREAKDANCE DI LAMPU MERAH GUA BAYAR 5K DOANG MAU BAE GOBLOK...
+NAMANYA JUGA EMAK PELACUR..
+ANAK NYA TOLOL KEBANYAKAN ZINA SAMA ORANG TUA JADI GITU!!!**")
 
 
 CMD_HELP.update({
