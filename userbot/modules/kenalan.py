@@ -26,15 +26,15 @@ async def typewriter(typew):
 # Create by myself @localheart
 
 
-@register(outgoing=True, pattern='^.semangat(?: |$)(.*)')
+@register(outgoing=True, pattern='^.ws(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(3)
-    await typew.edit("`Apapun Yang Terjadi`")
+    await typew.edit("`☠️`")
     sleep(3)
-    await typew.edit("`Tetaplah Bernapas`")
+    await typew.edit("`𝐖𝐀𝐑 𝐒𝐈𝐀𝐍𝐆 𝐁𝐎𝐋𝐎𝐍𝐆? 𝐏𝐀𝐒𝐓𝐈 𝐏𝐄𝐍𝐆𝐀𝐍𝐆𝐆𝐔𝐑𝐀𝐍 𝐘𝐀?`")
     sleep(1)
-    await typew.edit("`Dan Selalu Bersyukur`")
+    await typew.edit("`𝐖𝐀𝐇𝐀𝐇𝐀𝐇𝐀 𝐖𝐀𝐉𝐀𝐑𝐋𝐀𝐇 𝐏𝐄𝐍𝐆𝐀𝐆𝐆𝐔𝐑𝐀𝐍 𝐌𝐀𝐇, 𝐌𝐀𝐍𝐔𝐒𝐈𝐀 𝐂𝐀𝐂𝐀𝐓 𝐅𝐈𝐒𝐈𝐊 𝐂𝐀𝐂𝐀𝐓 𝐌𝐄𝐍𝐓𝐀𝐋 𝐌𝐎𝐃𝐄𝐋𝐀𝐍 𝐄𝐋𝐔 𝐒𝐈𝐀𝐏𝐀 𝐘𝐀𝐍𝐆 𝐌𝐀𝐔 𝐍𝐄𝐑𝐈𝐌𝐀 𝐊𝐄𝐑𝐉𝐀...`")
 # Create by myself @localheart
 
 
