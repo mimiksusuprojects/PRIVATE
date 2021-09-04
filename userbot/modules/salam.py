@@ -126,14 +126,6 @@ async def typewriter(typew):
     await typew.edit("**LAH KOK NGATUR??? SINI SUJUD DULU TOLOL!!!**")
 
 
-@register(outgoing=True, pattern='^.sempak(?: |$)(.*)')
-async def typewriter(typew):
-    typew.pattern_match.group(1)
-    await typew.edit("**AHAHA MAKANYA
-KALO UDAH GA PUNYA KATA KATA NGELAWAN ANAK MS MENDING LU DIEM AJA TOLOL
- LU AKUIN DAH KEKALAHAN LU YANG DRAMATIS ITU DONGO AHAHAH...**")
-
-
 CMD_HELP.update({
     "salam":
     "P\
