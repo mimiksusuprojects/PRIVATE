@@ -14,15 +14,19 @@ async def typewriter(typew):
 # Create by myself @localheart
 
 
-@register(outgoing=True, pattern='^.sayang(?: |$)(.*)')
+@register(outgoing=True, pattern='^.mimik(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(3)
-    await typew.edit("`Cuma Mau Bilang`")
+    await typew.edit("`░▒▓█►─═ᴍɪᴍɪᴋ sᴜsᴜ═─◄█▓▒░
+                    𝐀𝐋𝐋𝐈𝐀𝐍𝐂𝐄
+☠︎︎☠︎︎☠︎︎☠︎︎☠︎︎☠︎︎☠︎︎☠︎︎☠︎︎☠︎︎☠︎︎`")
     sleep(3)
-    await typew.edit("`Aku Sayang Kamu`")
+    await typew.edit("`𝐌𝐢𝐦𝐢𝐤 𝐬𝐮𝐬𝐮 𝐚𝐝𝐚𝐥𝐚𝐡 𝐚𝐥𝐢𝐚𝐧𝐬𝐢 𝐩𝐚𝐥𝐢𝐧𝐠 𝐤𝐞𝐫𝐞𝐧 𝐝𝐢 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦`")
     sleep(1)
-    await typew.edit("`I LOVE YOU 💞`")
+    await typew.edit("`☠️`")
+    sleep(1)
+    await typew.edit("`𝐆𝐀𝐔𝐒𝐀𝐇 𝐍𝐀𝐍𝐘𝐀 𝐌𝐔𝐋𝐔 𝐌𝐒 𝐈𝐓𝐔 𝐀𝐏𝐀𝐀𝐍 𝐘𝐀 𝐃𝐎𝐍𝐆𝐎... 𝐌𝐔𝐊𝐀 𝐋𝐔 𝐊𝐔𝐌𝐔𝐇, 𝐁𝐈𝐁𝐈𝐑 𝐑𝐄𝐓𝐀𝐊 𝐑𝐄𝐓𝐀𝐊, 𝐋𝐄𝐇𝐄𝐑 𝐁𝐄𝐑𝐃𝐀𝐊𝐈, 𝐌𝐄𝐍𝐃𝐈𝐍𝐆 𝐑𝐀𝐖𝐀𝐓𝐈𝐍 𝐃𝐔𝐋𝐔 𝐅𝐈𝐒𝐈𝐊 𝐋𝐔 𝐘𝐀𝐍𝐆 𝐒𝐄𝐑𝐁𝐀 𝐊𝐄𝐊𝐔𝐑𝐀𝐍𝐆𝐀𝐍 𝐈𝐓𝐔, 𝐁𝐀𝐑𝐔 𝐁𝐀𝐋𝐈𝐊 𝐋𝐀𝐆𝐈 𝐊𝐄𝐌𝐀𝐑𝐈...`")
 # Create by myself @localheart
 
 
