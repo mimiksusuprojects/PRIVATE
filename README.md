@@ -1,7 +1,7 @@
 
 <img src="https://img.shields.io/badge/SEMPAK-BOT-red?style=flat&logo=Heroku" width="325" height="50.100" />
 
-
+<img src="https://telegra.ph/file/074f2590f1127ea3ce00f.png">
 <p align="center">
   <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
     <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
