@@ -44,7 +44,7 @@
 <h3 align="center">REPO SEMPAK-BOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT WKWKWK.</h3>
 <p align="center">&nbsp;</p>
 
-### <a href="https://t.me/Ms_aliansi"><img src="https://img.shields.io/badge/GROUP%20SUPER%20MIMIK%20SUSU-blue?style=flat&logo=Telegram" width="250" height="40.100" />
+### <a href="https://t.me/+5LrKCyR4yJ80NzZl"><img src="https://img.shields.io/badge/GROUP%20SUPER%20MIMIK%20SUSU-blue?style=flat&logo=Telegram" width="250" height="40.100" />
 
 
 
