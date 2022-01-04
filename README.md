@@ -47,11 +47,7 @@
 ### <a href="https://t.me/Ms_aliansi"><img src="https://img.shields.io/badge/GROUP%20SUPER%20MIMIK%20SUSU-blue?style=flat&logo=Telegram" width="250" height="40.100" />
 
 
-## Bagaimana Cara Deploy?
 
-
-* **VIDEO TUTORIAL DEPLOY!** 🔧
-[<img src="https://media.giphy.com/media/XD4BoRtenzE1eTIHzZ/giphy.gif">](https://t.me/UserbotChannel/36)
 
 ### AMBIL STRING DI BAWAH INI:
 ##
